@@ -1,0 +1,4 @@
+In the Jekyll compile runtim. This wrror stopped the build process and deployment. As it can't be found. Neither can I see such a file
+
+Conversion error: Jekyll::Converters::Scss encountered an error while converting 'assets/css/style.scss':
+                    No such file or directory @ dir_chdir - /github/workspace/docs
